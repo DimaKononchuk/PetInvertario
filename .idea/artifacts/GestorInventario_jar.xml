@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="GestorInventario:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/GestorInventario_jar</output-path>
+    <root id="archive" name="GestorInventario:jar.jar">
+      <element id="archive" name="GestorInventario.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="GestorInventario:javaEEApplication exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/GestorInventario_javaEEApplication_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="GestorInventario/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
