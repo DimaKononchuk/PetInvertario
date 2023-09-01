@@ -9,17 +9,13 @@
     <h3>🐾 [ Pet Inventory ] 🐾<h3>
     <h5>Check it in ✅</h5>
     <h3>
-        <a href="https://view.genial.ly/60990384cffc8f0d31be023c/presentation-pet-inventory-presentacion">
-            Genial.ly
-        </a>
+        
         <span> | </span>
          <a href="https://replit.com/@le4nnt0nn/PetInventoryProject">
             Replit
         </a>
         <span> | </span>
-         <a href="https://youtu.be/6GEuHPwKSME">
-            VideoDemo
-        </a>
+        
     </h3>
 </div>
 
