@@ -8,13 +8,12 @@
  <div align="center">
     <h3>🐾 [ Pet Inventory ] 🐾<h3>
     <h5>Check it in ✅</h5>
-    <h3>
+    <h3>     
         
-        <span> | </span>
          <a href="https://replit.com/@le4nnt0nn/PetInventoryProject">
             Replit
         </a>
-        <span> | </span>
+        
         
     </h3>
 </div>
